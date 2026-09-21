@@ -12,27 +12,27 @@ Built with React, Express and MySQL.
 
 **Group overview**
 
-![Overview](screenshots/overview.png)
+![Overview](server/src/screenshots/overview.png)
 
 **Expenses with search, filters and sorting**
 
-![Expenses](screenshots/expenses.png)
+![Expenses](server/src/screenshots/expenses.png)
 
 **Adding an expense with an exact split**
 
-![Add expense](screenshots/expense-form.png)
+![Add expense](server/src/screenshots/expense-form.png)
 
 **Balances and suggested settlements**
 
-![Balances](screenshots/balances.png)
+![Balances](server/src/screenshots/balances.png)
 
 **Settlement history**
 
-![Settlements](screenshots/settlements.png)
+![Settlements](server/src/screenshots/settlements.png)
 
 **Validation error on the form**
 
-![Validation error](screenshots/error-validation.png)
+![Validation error](server/src/screenshots/error-validation.png)
 
 **Error shown when the server or database is down**
 
