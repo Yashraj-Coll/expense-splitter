@@ -8,7 +8,7 @@ Built with React, Express and MySQL.
 
 **Groups**
 
-![Groups](screenshots/groups.png)
+![Groups](server/src/screenshots/groups.png)
 
 **Group overview**
 
@@ -36,7 +36,7 @@ Built with React, Express and MySQL.
 
 **Error shown when the server or database is down**
 
-![Server error](screenshots/error-server.png)
+![Server error](server/src/screenshots/error-server.png)
 
 ## Features
 
